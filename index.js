@@ -13,5 +13,4 @@ server.listen(port, () => {
 });
 
 
-app.get('/',function(req, res){
-	res.sendfile('index.html');
+
